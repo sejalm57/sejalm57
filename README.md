@@ -7,7 +7,7 @@ Data enthusiast exploring real-world solutions through Excel automation & BI too
 [![Followers](https://img.shields.io/github/followers/sejalm57?label=Followers&style=social)](https://github.com/sejalm57?tab=followers)
 ![Visitors](https://visitor-badge.laobi.icu/badge?page_id=sejalm57.sejalm57)
 ![Open Source](https://img.shields.io/badge/OS-Contributor-217346?style=for-the-badge&labelColor=00C4CC)
-![Repositories](https://img.shields.io/badge/Repositories-2-F29111?style=for-the-badge&labelColor=D83B01)
+![Repositories](https://img.shields.io/badge/Repositories-3-F29111?style=for-the-badge&labelColor=D83B01)
 
 <!-- Typing Animation -->
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=0DAD8D&lines=👋+Hi+everyone!;I'm+passionate+data+enthusiast.;Actively+developing+skills+in+Data+Analysis+and+Business+Intelligence.;Working+with+SQL,+Excel,+Power+BI,+and+real-world+datasets.)](https://git.io/typing-svg)
